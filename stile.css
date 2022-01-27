@@ -3,6 +3,13 @@
     padding: 0px;
     margin: 0px;
 }
-body{
-    background-color: pink;
+.container{
+    width: 50%;
+    margin: auto;
+    background-color:rgb(255, 143, 143);
+    height: 100px;
+}
+.debug .container{
+    border: 2px dashed red;
+    height: 250px;
 }
